@@ -1,2 +1,2 @@
 # prithika-sri
-python code(")
+print("welcome to prithika github page")
